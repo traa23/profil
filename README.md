@@ -6,6 +6,7 @@
 - JavaScript
 - Node.js
 - hosting web
+- pyhton
 
 ### 📫 Contact
 Email: putrafajar2366@gmail.com
